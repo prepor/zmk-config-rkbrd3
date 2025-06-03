@@ -1,0 +1,10 @@
+.build
+.direnv
+.west
+firmware
+forager-zmk-module
+modules
+zephyr
+zmk
+zmk-auto-layer
+zmk-rgbled-widget
